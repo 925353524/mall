@@ -1,13 +1,29 @@
 <template>
-  <h2>分类</h2>
+  <div class="categroy">
+    分类
+  </div>
 </template>
 
 <script>
+
 export default {
-  name: 'Category'
+  name: 'Category',
+  components: {
+  },
+  data() {
+    return {
+      
+    }
+  },
+  mounted() {
+    
+  },
+  methods: {
+    
+  }
 }
 </script>
 
 <style scoped>
-
+  
 </style>
